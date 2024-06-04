@@ -20,6 +20,9 @@ button {
     padding: 10px 20px;
     border: 1px solid #017BFE;
     font-weight: bold;
+    border-radius: 1rem;
+    box-shadow: 2px 2px 0px black;
+    border: 2px solid black;
 }
 
 #delete-btn {
